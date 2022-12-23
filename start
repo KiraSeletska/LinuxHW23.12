@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir -p /tmp/kira
+touch /tmp/kira/proizvol.txt
+date >> /tmp/kira/proizvol.txt
+echo "it works!" >> /tmp/kira/proizvol.txt
+cp /tmp/kira/proizvol.txt /opt/

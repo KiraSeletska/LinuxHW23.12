@@ -1,0 +1,7 @@
+   0 nano /bin/start
+   1 chmod 744 /bin/start
+   2 ls -l /bin/start
+   3 start
+   4 cat /tmp/kira/proizvol.txt 
+   5 ls /opt/
+   6 history >> history.txt
